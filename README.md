@@ -8,11 +8,8 @@ Built for anyone who wants to lift smarter, not just harder 💪
 
 ## 📸 App Preview
 
-> _Add screenshots or a demo GIF of the app here_
 
 ![App Screenshot](./fitness_tracker_example.png)
-
-_(Replace this image with your actual app screenshot or GIF)_
 
 ---
 
@@ -86,8 +83,6 @@ _(More exercises can be added in the future)_
 - Computer vision for movement tracking
 - Angle & depth analysis algorithms
 - Real-time feedback system
-
-_(Update this section with your exact tech stack if needed)_
 
 ---
 
