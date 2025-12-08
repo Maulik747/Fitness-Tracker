@@ -1,0 +1,12 @@
+mediapipe 
+fastapi
+uvicorn
+opencv-python
+ultralytics
+transformers
+accelerate
+sentencepiece
+pydantic
+python-multipart
+streamlit
+matplotlib
